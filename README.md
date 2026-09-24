@@ -1,9 +1,9 @@
-# Guided Onboarding & Churn Reduction — FlowStack
+# Guided Onboarding & Churn Reduction - FlowStack
 
 **Author:** Nishchal Raja | Business Analyst
 **Category:** Consulting / Business Case / Process Improvement
 
-> A self-directed portfolio project built around a simulated B2B SaaS company, "FlowStack," to demonstrate a consulting-style engagement — from business case and strategy through requirements, delivery, and measured results.
+> A self-directed portfolio project built around a simulated B2B SaaS company, "Flow Stack," to demonstrate a consulting-style engagement, from business case and strategy through requirements, delivery, and measured results.
 
 ---
 
@@ -22,19 +22,19 @@ FlowStack converts trials to paid well, but new paid customers frequently churn 
 90-day churn sat at 22% against a ~10–12% benchmark, putting an estimated $633,600 in annual ARR at risk (full breakdown in [Business_Case.md](./Business_Case.md)).
 
 ### Objective
-Cut 90-day churn to 13% and lift Net Revenue Retention to 102%+, without growing the Customer Success team — full strategic reasoning in [Strategy_Analysis.md](./Strategy_Analysis.md).
+Cut 90-day churn to 13% and lift Net Revenue Retention to 102%+, without growing the Customer Success team - full strategic reasoning in [Strategy_Analysis.md](./Strategy_Analysis.md).
 
 ---
 
 ## Methodology & Techniques Used
 
-- **Cohort and funnel analysis** — quantified where and when new customers were stalling
-- **Voice-of-customer synthesis** — themed CS exit-interview notes to isolate the root cause
-- **Options matrix + SWOT** — evaluated three strategic paths before recommending a hybrid approach
-- **Stakeholder mapping + RACI** — aligned Customer Success, Product, Engineering, Sales, and Finance
-- **Health-score modeling** — weighted usage signals (login frequency, feature adoption, checklist completion) into a daily risk score
-- **Agile delivery within a phase-gated lifecycle** — waterfall-style sign-offs for strategy and requirements, two-week sprints for build (see [Project_Lifecycle.md](./Project_Lifecycle.md))
-- **Pilot-then-scale rollout** — validated on 25% of new customers before full rollout
+- **Cohort and funnel analysis**  quantified where and when new customers were stalling
+- **Voice-of-customer synthesis** themed CS exit-interview notes to isolate the root cause
+- **Options matrix + SWOT**  evaluated three strategic paths before recommending a hybrid approach
+- **Stakeholder mapping + RACI**  aligned Customer Success, Product, Engineering, Sales, and Finance
+- **Health-score modeling**  weighted usage signals (login frequency, feature adoption, checklist completion) into a daily risk score
+- **Agile delivery within a phase-gated lifecycle**  waterfall-style sign-offs for strategy and requirements, two-week sprints for build (see [Project_Lifecycle.md](./Project_Lifecycle.md))
+- **Pilot-then-scale rollout**  validated on 25% of new customers before full rollout
 
 ---
 
@@ -110,8 +110,8 @@ This repository contains:
 ## Contact & Questions
 
 **Author:** Nishchal Raja
-**Email:** [your.email@example.com]
-**LinkedIn:** [Your LinkedIn profile]
+**Email:** nishchalraja68@gmail.com
+**LinkedIn:** www.linkedin.com/in/nishchal-raja
 
 ---
 
